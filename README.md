@@ -1,4 +1,4 @@
-# indonesia-exchange-rates-timeseries
+# Indonesia Exchange Rates Timeseries
 
 Target Currencies List: Defines major global currencies (such as USD, EUR, SGD, JPY, etc.) to be tracked against the Indonesian Rupiah (IDR).
 
